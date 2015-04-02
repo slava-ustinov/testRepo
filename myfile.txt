@@ -4,4 +4,8 @@ z
 sg
 sg
 sdrthsrdghsrtgh
+changes 
+chnages
+:wq!
+
 
